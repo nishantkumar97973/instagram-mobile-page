@@ -46,4 +46,28 @@ button{
     border: none;
     border-radius: 5px;
     font-size: 15px;
+
+}
+
+.content{
+    text-align: center;
+    margin-top: 10px;
+}
+
+strong{
+    color: blue;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.boxes p{
+    background-color: black;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
 }
